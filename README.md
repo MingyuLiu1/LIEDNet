@@ -58,9 +58,10 @@ python train_llie.py --opt options/train_fivek.yaml
 ```
 
 ### Quick Inference
-- Download the LIEDNet pretrained model from []().
+- Download the LIEDNet pretrained model from:
+  
 | Pre-trained checkpoint | Link |
-| :----- | :--: |
+| :-: | :-: |
 | LOL-Blur | [Google Drive]() |
 | LOL-v1 | [Google Drive]() |
 | LOL-v2-synthetic | [Google Drive]() |
