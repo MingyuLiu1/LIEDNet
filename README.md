@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/LEDNet_LOLBlur_logo.png" height=90>
-</p>
-
 ## LIEDNet: A Lightweight Network for Low-light Enhancement and Deblurring
 
 AIR, Technical University of Munich
