@@ -84,8 +84,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-m', '--metric_names', type=str, nargs='+', default=None, help='metric name list.')
     parser.add_argument('--use_cpu', action='store_true', help='use cpu for test')
-    parser.add_argument('--result_dir', type=str)
-    parser.add_argument('--gt_dir', type=str)
+    parser.add_argument('--result_path', type=str)
+    parser.add_argument('--gt_path', type=str)
     args = parser.parse_args()
     
     result_path = args.result_path
