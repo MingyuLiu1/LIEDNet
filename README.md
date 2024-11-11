@@ -113,7 +113,7 @@ python inference_lol_blur.py --test_path $INPUT PATH$ --result_path $SAVE PATH$ 
 # test LIEDNet on LLIE datasets (LOL-V1, LOL-V2-synth, FiveK)
 python inference_llie.py --test_path $INPUT PATH$ --result_path $SAVE PATH$ --ckpt $CHECKPOINT PATH$
 ```
-The results will be saved in $SAVE PATH$.
+The results will be saved in `SAVE PATH`.
 
 ### Evaluation
 
