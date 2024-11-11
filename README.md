@@ -10,8 +10,7 @@ AIR, Technical University of Munich
 <details close>
 <summary><b>Performance vs. efficiency of deblurring models:</b></summary>
 
-![results1](/figures/performance_complexity_res.png) { width=200px}
-
+![results1](/figures/performance_complexity_res.png)
 </details>
 
 <details close>
