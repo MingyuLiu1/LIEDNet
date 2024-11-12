@@ -95,15 +95,15 @@ python train_llie.py --opt options/train_fivek.yaml
 ```
 
 ### Quick Inference
-- Download the LIEDNet pretrained model from:
+- Download the LIEDNet pretrained models and the qulitative results from:
   
-| Pre-trained checkpoint | Link |
-| :-: | :-: |
-| LOL-Blur | [Google Drive](https://drive.google.com/file/d/159Cyv2jQAu6j6-jXA_N4Y3fEPUZz6587/view?usp=sharing) |
-| LOL-Blur (Large) | [Google Drive](https://drive.google.com/file/d/1vp0bVeX2lZSGq9Ohc2QbVOd5vNI7Vb3U/view?usp=sharing) |
-| LOL-v1 | [Google Drive](https://drive.google.com/file/d/1CWNmUFWZLFLvj0M1nEjgZ9CeIVJZ44Bb/view?usp=sharing) |
-| LOL-v2-synthetic | [Google Drive](https://drive.google.com/file/d/1ZOb6pG4iwF0EswBIBKC7680ltfDPYjbM/view?usp=sharing) |
-| FiveK | [Google Drive](https://drive.google.com/file/d/15qxh-_iGKgLL8SmYpyGuJH62SeU8LpIJ/view?usp=sharing) |
+| Dataset | Pretrained Checkpoint | Qulitative Results |
+| :-: | :-: | :-: |
+| LOL-Blur | [Google Drive](https://drive.google.com/file/d/159Cyv2jQAu6j6-jXA_N4Y3fEPUZz6587/view?usp=sharing) | [Google Drive]() |
+| LOL-Blur (Large) | [Google Drive](https://drive.google.com/file/d/1vp0bVeX2lZSGq9Ohc2QbVOd5vNI7Vb3U/view?usp=sharing) | [Google Drive]() |
+| LOL-v1 | [Google Drive](https://drive.google.com/file/d/1CWNmUFWZLFLvj0M1nEjgZ9CeIVJZ44Bb/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1EbMgV5fItqFGpyvIQtkRUpaeSX1zFm8I/view?usp=sharing) |
+| LOL-v2-synthetic | [Google Drive](https://drive.google.com/file/d/1ZOb6pG4iwF0EswBIBKC7680ltfDPYjbM/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1ss4Ti9yuTR_Q-xh2MryQVJ9gjrMyZZSj/view?usp=sharing) |
+| FiveK | [Google Drive](https://drive.google.com/file/d/15qxh-_iGKgLL8SmYpyGuJH62SeU8LpIJ/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/17u6z7ZXmiL_QqQqAdcT7YTTkcxcqbAsS/view?usp=sharing) |
   
 Inference LIEDNet (save images):
 ```
