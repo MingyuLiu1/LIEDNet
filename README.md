@@ -104,9 +104,12 @@ python train_llie.py --opt options/train_fivek.yaml
 | LOL-Blur | [Google Drive](https://drive.google.com/file/d/159Cyv2jQAu6j6-jXA_N4Y3fEPUZz6587/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1lcLUZaaXmI5OZdnf6IzKF8M5tj6_T8Fm/view?usp=sharing) |
 | LOL-Blur (Large) | [Google Drive](https://drive.google.com/file/d/1vp0bVeX2lZSGq9Ohc2QbVOd5vNI7Vb3U/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1QkkzBVouKys5u4oAoLAArWhKahEficUF/view?usp=sharing) |
 | LOL-v1 | [Google Drive](https://drive.google.com/file/d/1CWNmUFWZLFLvj0M1nEjgZ9CeIVJZ44Bb/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1EbMgV5fItqFGpyvIQtkRUpaeSX1zFm8I/view?usp=sharing) |
+| LOL-v1 (Large) | [Google Drive](https://drive.google.com/file/d/1vMXLzUd4bNpHhSwPaSY6GR2bye9e599-/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1tKUWUZJ1JhngTamOFka8Q0nYZCv_q8qh/view?usp=sharing) |
 | LOL-v2-synthetic | [Google Drive](https://drive.google.com/file/d/1ZOb6pG4iwF0EswBIBKC7680ltfDPYjbM/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1ss4Ti9yuTR_Q-xh2MryQVJ9gjrMyZZSj/view?usp=sharing) |
+| LOL-v2-synthetic (Large) | [Google Drive](https://drive.google.com/file/d/1j7RpBnBAVwv8czysCs_y3L0Fi_g0VpRD/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1-PsR59ulZLnTU4cxitWzDwOu6w8_rDmX/view?usp=sharing) |
 | FiveK | [Google Drive](https://drive.google.com/file/d/15qxh-_iGKgLL8SmYpyGuJH62SeU8LpIJ/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/17u6z7ZXmiL_QqQqAdcT7YTTkcxcqbAsS/view?usp=sharing) |
-  
+| FiveK (Large) | [Google Drive](https://drive.google.com/file/d/1YBg5UlI3x8lVjTgxasK84zlNu0VRgtie/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1TrG_oXjdBvwPveM-g48D66wXWAFbysi2/view?usp=sharing) |
+
 Inference LIEDNet (save images):
 ```
 # test LIEDNet on LOL-Blur
