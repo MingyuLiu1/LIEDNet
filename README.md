@@ -36,6 +36,13 @@
 
 </details>
 
+<details close>
+<summary><b>Object detection results on ExDark:</b></summary>
+
+![results_llie](/figures/ExDark_det_res.png)
+
+</details>
+
 ### LOL-Blur Dataset
 The datasets are provided by [LEDNet](https://github.com/sczhou/LEDNet).
 | Dataset | Link |
