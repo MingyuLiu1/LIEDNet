@@ -120,6 +120,8 @@ python train_llie.py --opt options/train_fivek.yaml
 | FiveK (Large) | [Google Drive](https://drive.google.com/file/d/1YBg5UlI3x8lVjTgxasK84zlNu0VRgtie/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1TrG_oXjdBvwPveM-g48D66wXWAFbysi2/view?usp=sharing) |
 | Real-world LLIE | [Google Drive](https://drive.google.com/file/d/159Cyv2jQAu6j6-jXA_N4Y3fEPUZz6587/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1ASwgVT6Fli8HJvDM864RCWEdobzDmV3l/view?usp=sharing) |
 
+Note: For the Real-world LLIE task, we leverage the LOL-Blur pretrained checkpoint.
+
 Inference LIEDNet (save images):
 ```
 # test LIEDNet on LOL-Blur
