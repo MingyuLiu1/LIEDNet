@@ -64,6 +64,7 @@ These low-light enhancement datasets are provided by [RetinexFormer](https://git
 - Pytorch >= 1.13.1
 - CUDA >= 11.6
 - Other required packages in `requirements.txt`
+- Download Kernels from [Google Drive](https://drive.google.com/drive/folders/1wHNkQEIJF-ecVUNvagoAJOrj1n-bZOZ4?usp=sharing)
 ```
 # git clone this repository
 git clone https://github.com/MingyuLiu1/LIEDNet.git
@@ -77,7 +78,8 @@ conda activate liednet
 pip3 install -r requirements.txt
 python basicsr/setup.py develop
 
-cd basicsr/kernels/selective_scan
+# Compile kernels for VSSM
+cd ./kernels/selective_scan
 python install .
 ```
 
