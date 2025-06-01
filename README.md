@@ -157,3 +157,13 @@ This project is built on [LIEDNet](https://github.com/sczhou/LEDNet), [LLFormer]
 
 ### Contact
 If you have any questions, please feel free to reach me out at `mingyu.liu@tum.de`.
+
+### Citation
+```shell
+@article{liu2025liednet,
+  author={Liu, Mingyu and Cui, Yuning and Ren, Wenqi and Zhou, Juxiang and Knoll, Alois C.},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={LIEDNet: A Lightweight Network for Low-light Enhancement and Deblurring}, 
+  year={2025},
+  doi={10.1109/TCSVT.2025.3541429}}
+```
