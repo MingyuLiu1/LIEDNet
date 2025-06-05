@@ -124,6 +124,13 @@ python train_llie.py --opt options/train_fivek.yaml
 
 Note: For the Real-world LLIE task, we leverage the LOL-Blur pretrained checkpoint.
 
+- Download the qulitative results of LEDNet and VQCNIR from:
+  
+| Dataset | Method | Qulitative Results |
+| :-: | :-: | :-: |
+| LOL-Blur | LEDNet | [Google Drive](https://drive.google.com/file/d/1ZiHYo2WvlsVWXzwaBW92JMFE9IWgWra2/view?usp=sharing) |
+| LOL-Blur | VQCNIR | [Google Drive](https://drive.google.com/file/d/1jIqBNctDWF0xA2oE-_EO6cNpjnWrJef4/view?usp=sharing) |
+
 Inference LIEDNet (save images):
 ```
 # test LIEDNet on LOL-Blur
