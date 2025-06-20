@@ -80,7 +80,7 @@ python basicsr/setup.py develop
 
 # Compile kernels for VSSM
 cd ./kernels/selective_scan
-python install .
+pip install .
 ```
 
 ### Train the Model
