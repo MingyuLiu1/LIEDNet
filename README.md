@@ -160,7 +160,7 @@ This project is licensed under <a rel="license" href="https://github.com/MingyuL
 
 ### Acknowledgement
 
-This project is built on [LIEDNet](https://github.com/sczhou/LEDNet), [LLFormer](https://github.com/TaoWangzj/LLFormer), [VMamba](https://github.com/MzeroMiko/VMamba), and [VQCNIR](https://github.com/AlexZou14/VQCNIR). 
+This project is built on [LEDNet](https://github.com/sczhou/LEDNet), [LLFormer](https://github.com/TaoWangzj/LLFormer), [VMamba](https://github.com/MzeroMiko/VMamba), and [VQCNIR](https://github.com/AlexZou14/VQCNIR). 
 
 ### Contact
 If you have any questions, please feel free to reach me out at `mingyu.liu@tum.de`.
